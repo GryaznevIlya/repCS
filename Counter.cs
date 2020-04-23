@@ -13,7 +13,7 @@ namespace WordCounter
             string[] arrText = text.Split(' ');
 
             return arrText.Length;
-            //ии
+            
         }
     }
 
