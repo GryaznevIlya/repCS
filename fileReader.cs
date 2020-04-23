@@ -13,6 +13,7 @@ namespace WordCounter
             StreamReader sr = new StreamReader(path);
             
             return sr.ReadToEnd();
+            //ии
         }
     }
 }
