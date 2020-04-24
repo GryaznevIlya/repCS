@@ -17,7 +17,7 @@ namespace WordCounter
 
             count = Counter.doSomething(text);
             Console.WriteLine(count);
-            Console.Read();
+            Console.Read();//ьь
         }
     }
 }
